@@ -18,7 +18,7 @@ If the place you search for is hotter than 16 °C ,the background will change.
 
 ## Project Demo
 
-Try [this link](https://lucid-liskov-224744.netlify.com/) for a live demo.
+Try [this link](https://competent-hopper-517978.netlify.com/) for a live demo.
 
 ## Project setup
 ```
@@ -32,13 +32,3 @@ npm run serve
 
 ## Author
 Danny Wang
-
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
